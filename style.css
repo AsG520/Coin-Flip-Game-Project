@@ -1,0 +1,79 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #fffde4, #005aa7);
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 750;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-style: normal;
+    gap: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.35);
+    border-radius: 25px;
+    border: none;
+    animation-name: borderColor;
+    animation-timing-function: ease-in-out;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+    animation-fill-mode: forwards;
+}
+
+#coin-picture:hover {
+    transform: skew(15deg, 15deg);
+}
+
+#score {
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 25px;
+    width: 150px;
+    border-radius: 20px;    
+}
+
+#spin {
+    height: 25px;
+    width: 120px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: darkblue;
+    color: white;
+    font-weight: 800;
+}
+
+#spin:hover {
+    transform: scale(1.1);
+}
+
+#spin:active {
+    transform: translateY(1px);
+}
+
+@keyframes borderColor {
+    0% {
+        border: 3px solid blue; 
+    }
+    25% {
+        border: 3px solid red;
+    }
+    50% {
+        border: 3px solid green;
+    }
+    75% {
+        border: 3px solid orange;
+    }
+    100% {
+        border: 3px solid purple;
+    }
+}
