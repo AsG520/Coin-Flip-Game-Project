@@ -1,6 +1,12 @@
 # Coin Flip Game Project
 
 Features in Design
+- .gif used to display coin possibility for heads or tails.
+- Includes multiple color border effect around perimeter.
+- Interactive for user with hover and underline CSS properties.
+- Models classic standard coin flip game.
+- Embraced with live score tracker between head and tail.
+- Enclosed with smart JS logic for 50/50 chance between head or tail.
 
 How it Works
 
