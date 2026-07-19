@@ -1,6 +1,8 @@
 # Coin Flip Game Project
 
 Visual of Design
+<br>
+<img width="356" height="347" alt="Image" src="https://github.com/user-attachments/assets/f4404f78-d83b-48f1-8ea9-af4d67d817f8" />
 
 Features in Design
 - .gif used to display coin possibility for heads or tails.
