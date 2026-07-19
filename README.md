@@ -13,6 +13,10 @@ Features in Design
 - Enclosed with smart JS logic for 50/50 chance between head or tail.
 
 How it Works
+- User must click spin button to flip the coin and start the game.
+- To restart scores, clicking on the reset button will set head and tail points to zero.
+- Head or tail points will get incremented by one depending on the corresponding coin.
+- No limit for scores included, users can play to infinite.
 
 Requirements
 - IDE (e.g., VS Code, Eclipse, or IntelliJ).
