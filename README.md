@@ -1,5 +1,7 @@
 # Coin Flip Game Project
 
+Visual of Design
+
 Features in Design
 - .gif used to display coin possibility for heads or tails.
 - Includes multiple color border effect around perimeter.
