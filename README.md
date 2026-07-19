@@ -2,7 +2,7 @@
 
 Visual of Design
 <br>
-<img width="356" height="347" alt="Image" src="https://github.com/user-attachments/assets/f4404f78-d83b-48f1-8ea9-af4d67d817f8" />
+<img width="364" height="348" alt="Image" src="https://github.com/user-attachments/assets/99e7de73-a309-4b86-8fcd-e6eef034168b" />
 
 Features in Design
 - .gif used to display coin possibility for heads or tails.
