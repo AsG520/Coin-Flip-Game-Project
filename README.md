@@ -1,5 +1,12 @@
 # Coin Flip Game Project
 
+## Table of Contents
+- Visual of Design
+- Features in Design
+- How it Works
+- Requirements
+- How to Run
+
 ## Visual of Design
 <img width="364" height="348" alt="Image" src="https://github.com/user-attachments/assets/99e7de73-a309-4b86-8fcd-e6eef034168b" />
 
