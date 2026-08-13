@@ -1,16 +1,16 @@
-# Coin Flip Game Project
+# 🪙 Coin Flip Game Project
 
-## Table of Contents
+## 📘 Table of Contents
 - Visual of Design
 - Features in Design
 - How it Works
 - Requirements
 - How to Run
 
-## Visual of Design
+## 🎨 Visual of Design
 <img width="364" height="348" alt="Image" src="https://github.com/user-attachments/assets/99e7de73-a309-4b86-8fcd-e6eef034168b" />
 
-## Features in Design
+## 🔥 Features in Design
 - .gif used to display coin possibility for heads or tails.
 - Includes multiple color border effect around perimeter.
 - Interactive for user with hover and underline CSS properties.
@@ -18,20 +18,20 @@
 - Embraced with live score tracker between head and tail.
 - Enclosed with smart JS logic for 50/50 chance between head or tail.
 
-## How it Works
+## 🛠️ How it Works
 - User must click spin button to flip the coin and start the game.
 - To restart scores, clicking on the reset button will set head and tail points to zero.
 - Head or tail points will get incremented by one depending on the corresponding coin.
 - No limit for scores included, users can play to infinite.
 
-## Requirements
+## 🎯 Requirements
 - IDE (e.g., VS Code, Eclipse, or IntelliJ).
 - HTML (HyperText Markup Language).
 - CSS (Cascading Style Sheets).
 - JS (JavaScript).
 - Live Reloading or Hot Reloading (e.g., Live Server, and etc).
 
-## How to Run
+## 💻 How to Run
 1) Copy the HTML code into a HTML file named "index.html".
 2) Copy the CSS code into a CSS file named "style.css".
 3) Copy the JS code into a JS file named "function.js".
