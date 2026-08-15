@@ -1,11 +1,15 @@
 # 🪙 Coin Flip Game Project
 
 ## 📘 Table of Contents
+- 🎬 Video Clip of Design
 - 🎨 Visual of Design
 - 🔥 Features in Design
 - 🛠️ How it Works
 - 🎯 Requirements
 - 💻 How to Run
+
+## 🎬 Video Clip of Design
+https://github.com/user-attachments/assets/9b59ed5e-634d-42c3-afbf-7069e86342e5
 
 ## 🎨 Visual of Design
 <img width="364" height="348" alt="Image" src="https://github.com/user-attachments/assets/99e7de73-a309-4b86-8fcd-e6eef034168b" />
